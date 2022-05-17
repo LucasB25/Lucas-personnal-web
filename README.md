@@ -4,7 +4,7 @@
     <img src="assets/images/my-avatar.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Panais</h3>
+  <h3 align="center">LucasB25</h3>
 
   <p align="center">
     <br />
