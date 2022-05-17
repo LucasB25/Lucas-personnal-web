@@ -10,6 +10,6 @@
     <br />
     <a href="https://discord.gg/Mwjk8dVUQJ">Discord</a>
     ·
-    <a href="https://lucasb25.tk">Commands</a>
+    <a href="https://lucasb25.tk">Website</a>
   </p>
 </div>
